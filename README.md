@@ -1,2 +1,2 @@
-# LSTM-predict-Sunspot-Number
-Using LSTM to predict monthly mean total sunspot number
+# Tensorflow-LSTM
+A LSTM model implementation based on Tensorflow
