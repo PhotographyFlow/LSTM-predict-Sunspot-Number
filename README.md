@@ -2,7 +2,7 @@
 
 # Tensorflow-LSTM
 
-This is a simple implementation of LSTM model by using tensorFlow for classifying MNIST dataset.
+This is a simple implementation of LSTM model by using tensorflow for classifying MNIST dataset.
 
 For school, class BADE03.
 
