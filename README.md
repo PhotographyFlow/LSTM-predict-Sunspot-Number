@@ -1,3 +1,7 @@
 # Tensorflow-LSTM
+
 A LSTM model implementation based on Tensorflow.
-Work in progress
+
+For school, class BADE03.
+
+Work in progress.
