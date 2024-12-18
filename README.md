@@ -51,8 +51,6 @@ cd Tensorflow-LSTM
 Done!
 ```
 
----
-
 ## Manual Installation
 
 If the script doesn't work, set up manually:
