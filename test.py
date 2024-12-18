@@ -31,7 +31,7 @@ ds_test = ds_test.prefetch(tf.data.AUTOTUNE)
 #import model
 model =tf.keras.models.load_model('./LSTM_model.keras')
 
-#print result
+#test and print result
 result = model.evaluate(ds_test)
 dict(zip(model.metrics_names,result))
      
